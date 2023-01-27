@@ -4,7 +4,7 @@ Retail UI
 Backup your WTF folder
 Rename as written in the WTF folder, following UPPERCASE and lowercase
 #
-Import my Profile
+Import my Plater profile
 #
 ADDONS LIST:
 BigWigs--
