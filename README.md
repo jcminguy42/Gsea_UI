@@ -5,17 +5,17 @@ Backup your WTF folder
 Rename as written in the WTF folder, following UPPERCASE and lowercase
 #
 ADDONS LIST:
-BigWigs
-LittleWigs
-Details
-MythicDungeonTools
-MythicPlusTimer
-OmniCC
-OmniCD
-PartyPetsFix
-Plater
-PremadeGroupsFilter
-RaiderIO
-Simulationcraft
-Uber UI
+BigWigs--
+LittleWigs--
+Details--
+MythicDungeonTools--
+MythicPlusTimer--
+OmniCC--
+OmniCD--
+PartyPetsFix--
+Plater--
+PremadeGroupsFilter--
+RaiderIO--
+Simulationcraft--
+Uber UI--
 WeakAuras
